@@ -1,0 +1,12 @@
+{
+  "name": "tg-rpg-js",
+  "version": "1.0.0",
+  "description": "Интерактивная RPG игра в Telegram на JS",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
